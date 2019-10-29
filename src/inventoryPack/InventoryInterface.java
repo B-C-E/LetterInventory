@@ -1,5 +1,9 @@
 package inventoryPack;
 
+//Sean Yanik
+//CS 145
+//This is a simple interface I used to make sure I fit the assignment specifications.
+//Not much to see here, just copied from the assignment page
 public interface InventoryInterface {
 
 	
@@ -16,4 +20,4 @@ public int get(char letter);
 	public LetterInventory add(LetterInventory other);
 	public LetterInventory subtract (LetterInventory other);
 	
-}
+}//end of InventoryInterface
