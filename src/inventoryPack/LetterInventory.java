@@ -2,7 +2,7 @@ package inventoryPack;
 
 import java.util.HashMap;
 
-//Sean Yanik
+//B-C-E
 //CS 145
 //This Class constructs "Letter Inventories", which take in strings and record how many of each letter (from the alphabet)
 //the a given string has. (caat would have two 'a's, a 'c', and a 't').
