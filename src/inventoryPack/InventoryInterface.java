@@ -1,6 +1,6 @@
 package inventoryPack;
 
-//Sean Yanik
+//B-C-E
 //CS 145
 //This is a simple interface I used to make sure I fit the assignment specifications.
 //Not much to see here, just copied from the assignment page
