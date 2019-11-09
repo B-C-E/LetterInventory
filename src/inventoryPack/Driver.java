@@ -1,6 +1,6 @@
 package inventoryPack;
 
-//Sean Yanik
+//B-C-E
 //CS 145
 //This driver shows the functionality of the project.
 public class Driver {
